@@ -1,7 +1,8 @@
 # TELCO_Customer-Churn
 The Objective of the analysis is as follows,
 
-1) Analyzing how different factors affect customer churn by 
+1) Analyzing how different factors affect customer churn by
+
    a) Univariate analysis
    
    b) Bivariate analysis
